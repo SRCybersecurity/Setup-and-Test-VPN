@@ -8,7 +8,7 @@ Understand the role of VPNs in protecting privacy and secure communication.
 ### 1. Choose a reputable free VPN service and sign up
 
 - I chose **ProtonVPN (Free Tier)** – known for strong privacy policies and unlimited data (though with limited speeds and servers).
-- Website: [https://protonvpn.com](https://protonvpn.com)
+- Website: https://protonvpn.com, https://protonvpn.com
 
 ---
 
